@@ -39,7 +39,9 @@ The datasets were divided into high and low variance in listings price across di
 Result of predictions and performance of predictor on training and test dataset are given below:
 
 Training Dataset Price Heatmap:
+
 ![heatmap_train_dataset](/images/heatmap_train_dataset.png) 
 
 Test Dataset Price Heatmap:
+
 ![heatmap_test_dataset](/images/heatmap_test_dataset.png)
